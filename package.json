@@ -31,5 +31,6 @@
     "tinybase": "^2.2.3",
     "winston": "^3.8.2",
     "winston-transport": "^4.5.0"
-  }
+  },
+  "license": "Unlicense"
 }
